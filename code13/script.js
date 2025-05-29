@@ -1,4 +1,4 @@
-//We are given array of marks of students. Filter our of the marks of students that scored 90+.
+//We are given array of marks of students. Filter out of the marks of students that scored 90+.
 
 let marks=[87,93,64,99,86];
 
